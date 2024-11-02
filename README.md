@@ -13,13 +13,12 @@
 - 📫 How to reach me: [svatsup1@gmail.com](mailto:svatsup1@gmail.com)
 
 ## 💡 Tech Interests
-- Building interactive web applications with **React** and **JavaScript**.
+- Building interactive web applications with **JavaScript**.
 - Exploring data structures and algorithms with **C++**.
-- Developing full-stack solutions with **Node.js** and **SQL**.
+
 
 ## 🚀 Skills
 - **Languages:** HTML, CSS, C, JavaScript, Python, C++, SQL
-- **Frameworks:** React, Node.js
 - **Tools:** Git, VS Code, GitHub
 ## 📊 GitHub Stats
 ## 📊 GitHub Stats
