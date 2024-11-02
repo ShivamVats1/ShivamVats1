@@ -1,9 +1,9 @@
-# Hi there, I'm Shivam Vats 👋
+# Namaste, I'm Shivam Vats 🙏
 
 ![Profile views](https://komarev.com/ghpvc/?username=shivamvats&color=blue)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="100%" height="200px"/>
+  <img src="https://media.giphy.com/media/3o7btPrqT0zWo94T38/giphy.gif" alt="Hacker GIF" width="100%" height="200px"/>
 </div>
 
 ## 🔭 About Me
