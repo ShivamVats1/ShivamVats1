@@ -7,7 +7,7 @@
 ## 🔭 About Me
 - 🌱 I’m currently diving deep into **JavaScript** to sharpen my web development skills.
 - 👯 I’m excited to collaborate on projects related to **C++**, **web development**, and **SQL**.
-- 📫 How to reach me: [svatsup1@gmail.com](mailto:  svatsup1@gmail.com)
+- 📫 How to reach me: [svatsup1@gmail.com]
 
 ## 💡 Tech Interests
 - Building interactive web applications with **React** and **JavaScript**.
