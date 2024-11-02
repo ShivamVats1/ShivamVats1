@@ -3,7 +3,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=shivamvats&color=blue)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7btQ82fr1t3LwXnG/giphy.gif" alt="Git Tech GIF" width="100%" height="200px"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Simple Coding GIF" width="100%" height="200px"/>
 </div>
 
 ## 🔭 About Me
@@ -33,3 +33,4 @@
 
 ## ⚡ Fun Fact
 > "Code is like humor. When you have to explain it, it’s bad." - *Cory House*
+
