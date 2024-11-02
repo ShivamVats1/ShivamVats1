@@ -22,9 +22,10 @@
 - **Frameworks:** React, Node.js
 - **Tools:** Git, VS Code, GitHub
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivamVats1&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamVats1&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamVats1&layout=compact&theme=radical&langs_count=6)
 
 
 ## 🌐 Connect with Me
