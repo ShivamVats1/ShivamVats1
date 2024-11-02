@@ -27,7 +27,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamvats&layout=compact&theme=radical)
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([(https://www.linkedin.com/in/shivam-vats-18b708332/?originalSubdomain=in)])
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-vats-18b708332/?originalSubdomain=in)
+
 [![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat&logo=github&logoColor=white)](https://github.com/ShivamVats1)
 
 ## ⚡ Fun Fact
