@@ -3,7 +3,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=shivamvats&color=blue)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Coding GIF" width="100%" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Coding GIF" width="84%" />
 </div>
 
 ## 🔭 About Me
@@ -27,8 +27,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamvats&layout=compact&theme=radical)
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/shivamvats)
-[![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat&logo=github&logoColor=white)](https://github.com/shivamvats)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://linkedin.com/in/shivamvats](https://www.linkedin.com/in/shivam-vats-18b708332/?originalSubdomain=in))
+[![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat&logo=github&logoColor=white)](https://github.com/ShivamVats1))
 
 ## ⚡ Fun Fact
 > "Code is like humor. When you have to explain it, it’s bad." - *Cory House*
