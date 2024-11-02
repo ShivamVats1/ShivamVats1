@@ -3,7 +3,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=shivamvats&color=blue)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7btPrqT0zWo94T38/giphy.gif" alt="Hacker GIF" width="100%" height="200px"/>
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="Crazy Tech GIF" width="100%" height="200px"/>
 </div>
 
 ## 🔭 About Me
