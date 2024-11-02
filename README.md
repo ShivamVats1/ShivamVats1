@@ -21,11 +21,11 @@
 - **Languages:** HTML, CSS, C, JavaScript, Python, C++, SQL
 - **Frameworks:** React, Node.js
 - **Tools:** Git, VS Code, GitHub
-
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamvats&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivamVats1&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamvats&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamVats1&layout=compact&theme=radical)
+
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-vats-18b708332/?originalSubdomain=in)
