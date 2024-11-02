@@ -3,7 +3,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=shivamvats&color=blue)
 
 <div align="center">
-  <img src="https://static.wixstatic.com/media/f39dc2_5e80e53cebb84ff3b5b1b2f007b51be2~mv2.gif/v1/fit/w_500%2Ch_280%2Cal_c%2Cq_80/file.gif" alt="Simple Coding GIF" width="70%" height="200px"/>
+  <img src="https://static.wixstatic.com/media/f39dc2_5e80e53cebb84ff3b5b1b2f007b51be2~mv2.gif/v1/fit/w_500%2Ch_280%2Cal_c%2Cq_80/file.gif" alt="Simple Coding GIF" width="70%" height="150px"/>
 </div>
 
 ## 🔭 About Me
