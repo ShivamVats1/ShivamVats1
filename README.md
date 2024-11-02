@@ -3,8 +3,9 @@
 ![Profile views](https://komarev.com/ghpvc/?username=shivamvats&color=blue)
 
 <div align="center">
-  <img src="https://www.adweek.com/wp-content/uploads/2018/01/pacman-detail-2018-.gif" alt="Simple Coding GIF" width="1000%" height="150px"/>
+  <img src="https://www.adweek.com/wp-content/uploads/2018/01/pacman-detail-2018-.gif" alt="Pacman GIF" width="100%" height="150px"/>
 </div>
+
 
 ## 🔭 About Me
 - 🌱 I’m currently diving deep into **JavaScript** to sharpen my web development skills.
